@@ -1,2 +1,4 @@
 # SnakePhaser
-If you want to run this project, You need Apache server.
+Used frameworks: Phaser
+# How to run
+You need apache server.
